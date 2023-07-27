@@ -27,10 +27,10 @@ function Hero() {
         </div>
         <p className="text-[#4D4D4D]  mt-5 ml-3 text-center">001</p>
         <div className="flex justify-center flex-col mx-auto items-center">
-          <h1 className="uppercase  text-white lg:text-8xl text-xl md:text-6xl font-bold">
+          <h1 className="uppercase  text-white lg:text-8xl text-3xl md:text-6xl font-bold">
             immersive
           </h1>
-          <h1 className="uppercase text-white text-xl lg:text-8xl md:text-6xl font-bold lg:ml-96 md:ml-44">
+          <h1 className="uppercase text-white text-3xl lg:text-8xl md:text-6xl font-bold lg:ml-96 ml-24 md:ml-44">
             metaverse
           </h1>
         </div>
